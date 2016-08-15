@@ -30,11 +30,3 @@ body {
 footer {
     margin: 50px 0;
 }
-
-
-.font-color
-{
-  color: grey;
-}
-
-.active a.list-group-item { background-color: #185037; }
