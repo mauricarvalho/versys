@@ -30,3 +30,14 @@ body {
 footer {
     margin: 50px 0;
 }
+
+
+.font-color
+{
+  color: grey;
+}
+
+.active
+{
+  color: red;
+}
