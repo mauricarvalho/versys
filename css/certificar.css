@@ -31,13 +31,10 @@ footer {
     margin: 50px 0;
 }
 
-.customize-item
+
+.font-color
 {
-  overflow:hidden;
-  position: relative;
-  display: block;
-  padding: 10px 15px;
-  margin-bottom: -1px;
-  background-color: red;
-  border: 1px solid #ddd;
+  color: grey;
 }
+
+.active a.list-group-item { background-color: #185037; }
